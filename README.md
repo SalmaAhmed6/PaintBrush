@@ -21,7 +21,7 @@ PaintBrush is a simple Java drawing applet that allows users to create and edit 
 
     ```bash
     javac paint.java
-    appletviewer paint.java
+    appletviewer paint.html
     ```
 
 ## Usage
